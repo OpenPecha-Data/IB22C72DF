@@ -1,0 +1,95 @@
+id: bcb310ed2efb4c90a78acfd6d3bd5274
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  2cc714ccfd1647feaaadc3e8c512caf8:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.78905296
+  b52e8931df9c4e72a57f1a237da7eeaa:
+    span:
+      start: 261
+      end: 263
+    confidence: 0.72370994
+  57d1356519d249d98a98762231547472:
+    span:
+      start: 306
+      end: 307
+    confidence: 0.4791261
+  94564cddd6f04716b1a0e910cb083776:
+    span:
+      start: 453
+      end: 455
+    confidence: 0.7027008
+  1538711010c04e5d977a4f8d606de8d7:
+    span:
+      start: 469
+      end: 471
+    confidence: 0.68312025
+  199296539fc94b478982d91cc70565ea:
+    span:
+      start: 639
+      end: 640
+    confidence: 0.37493443
+  18761933fd3f4a22b5150a85a9269ba7:
+    span:
+      start: 660
+      end: 661
+    confidence: 0.67404395
+  49aa5419e3ac4d44bc6435364fa6a3ad:
+    span:
+      start: 677
+      end: 678
+    confidence: 0.7058843
+  ef9584a2f343424599ee275edb8a3d67:
+    span:
+      start: 883
+      end: 884
+    confidence: 0.74544585
+  5a340529ad784ed48a7f995e059a48c2:
+    span:
+      start: 1528
+      end: 1531
+    confidence: 0.7815533
+  099ee60cca784e2c9a2945364b735d5d:
+    span:
+      start: 17387
+      end: 17392
+    confidence: 0.7083017340000001
+  8bc7a54cf9c84a6ca57adbbae09cb870:
+    span:
+      start: 32002
+      end: 32003
+    confidence: 0.6282787
+  38f9453416fb4bafae847c8d47c80072:
+    span:
+      start: 32100
+      end: 32101
+    confidence: 0.48253617
+  b524a3b6cd0f4fb69f3e6bb6cdfb8fd0:
+    span:
+      start: 77612
+      end: 77615
+    confidence: 0.7493378
+  604ffdaaca2349758645a5df96de2667:
+    span:
+      start: 109068
+      end: 109073
+    confidence: 0.7215687
+  893f6c7f49b24965b0d16237a8e03546:
+    span:
+      start: 136456
+      end: 136458
+    confidence: 0.7175651
+  225247bc005a4d15a6d47f2765c2d4b3:
+    span:
+      start: 142705
+      end: 142708
+    confidence: 0.79164183
+  726d3207dcc045f5a2d24eba4520c9f4:
+    span:
+      start: 150666
+      end: 150671
+    confidence: 0.6986873
+confidence_threshold: 0.8
